@@ -1,6 +1,5 @@
 import pygame
 from pygame.locals import *
-import pgu
 import sys
 
 pygame.init()
